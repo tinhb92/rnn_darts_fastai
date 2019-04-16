@@ -1,7 +1,7 @@
 # DARTS for RNN with fastai
 
 Language model on Penn Treebank using Differentiable Architecture Search (DARTS) and fastai library.\
-[Blog post](https://medium.com/@tinhb92/differentiable-architecture-search-for-rnn-with-fastai-a5e247aeb937).\
+[Blog post](https://medium.com/p/differentiable-architecture-search-for-rnn-with-fastai-a5e247aeb937?source=email-69f5f36d8a7c--writer.postDistributed&sk=fb4a8d77b9ffd5bf82a65747cc4aec76).\
 Based on [DARTS: Differentiable Architecture Search ](https://openreview.net/pdf?id=S1eYHoC5FX) by Hanxiao Liu, Karen Simonyan, Yiming Yang.\
 Check out the [original implementation](https://github.com/quark0/darts).
 
